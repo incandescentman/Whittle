@@ -4,7 +4,7 @@
 ;; Version: 1.0
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: convenience, languages
-;; URL: [URL to your package repository, if applicable]
+;; URL: https://github.com/incandescentman/Whittle.git
 
 ;;; Commentary:
 
