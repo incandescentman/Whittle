@@ -6,9 +6,7 @@ Whittle is an Emacs package to enhance the readability of transcripts, particula
 
 Whittle helps ensure that your transcripts convey clarity and professionalism, retaining the essence of the spoken word in written form.
 
-[[ https://github.com/incandescentman/primetime/raw/main/screenshot.png][file:screenshot.png]]
-
-[[https://github.com/incandescentman/tadpole/raw/main/images/unreliablenarrator_an_adorable_tree_frog_working_at_a_writing__7e86e2c5-c332-47a9-9af1-be5d1e454747.png][file:images/unreliablenarrator_an_adorable_tree_frog_working_at_a_writing__7e86e2c5-c332-47a9-9af1-be5d1e454747.png]]
+[[ https://github.com/incandescentman/Whittle/blob/main/images/unreliablenarrator_a_pocket_knife_whittling_words._application_0d993991-b852-4de3-b394-190e9990648c.png ][file:images/unreliablenarrator_a_pocket_knife_whittling_words._application_0d993991-b852-4de3-b394-190e9990648c.png ]]
 
 
 ** Features
@@ -51,6 +49,12 @@ After Whittle:
 
 - "Yes yes, I understand the importance of this project."
 - "It's a new beginning."
+
+
+[[ https://github.com/incandescentman/Whittle/blob/main/images/_953f0299-487a-4afc-9012-a9e1a3421681.jpeg ][file:images/_953f0299-487a-4afc-9012-a9e1a3421681.jpeg]]
+
+
+
 
 ** Contributing
 Suggestions for additional filler words, duplicate exclusions, or other improvements are always welcome. Feel free to open an issue or submit a pull request on our repository.
