@@ -6,7 +6,7 @@ Whittle is an Emacs package to enhance the readability of transcripts, particula
 
 Whittle helps ensure that your transcripts convey clarity and professionalism, retaining the essence of the spoken word in written form.
 
-[[ https://github.com/incandescentman/Whittle/blob/main/images/unreliablenarrator_a_pocket_knife_whittling_words._application_0d993991-b852-4de3-b394-190e9990648c.png ][file:images/unreliablenarrator_a_pocket_knife_whittling_words._application_0d993991-b852-4de3-b394-190e9990648c.png ]]
+[[https://github.com/incandescentman/Whittle/blob/main/images/unreliablenarrator_a_pocket_knife_whittling_words._application_0d993991-b852-4de3-b394-190e9990648c.png][file:images/unreliablenarrator_a_pocket_knife_whittling_words._application_0d993991-b852-4de3-b394-190e9990648c.png]]
 
 
 ** Features
@@ -51,9 +51,7 @@ After Whittle:
 - "It's a new beginning."
 
 
-[[ https://github.com/incandescentman/Whittle/blob/main/images/_953f0299-487a-4afc-9012-a9e1a3421681.jpeg ][file:images/_953f0299-487a-4afc-9012-a9e1a3421681.jpeg]]
-
-
+[[https://github.com/incandescentman/Whittle/blob/main/images/_953f0299-487a-4afc-9012-a9e1a3421681.jpeg][file:images/_953f0299-487a-4afc-9012-a9e1a3421681.jpeg]]
 
 
 ** Contributing
